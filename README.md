@@ -22,6 +22,8 @@ RRNavigationBar.changeColorNavigationBar(ThemeColor.Red)
 ```
 
 You can change the theme everywhere in your application. If you have a good don't hesitate to make a pull request.
+<br>
+<hr>
 
 <p align="center">
   <img  src ="https://raw.githubusercontent.com/remirobert/RRMaterialNavigationBar/master/ressource/1.png"/>
